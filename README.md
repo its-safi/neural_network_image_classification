@@ -7,3 +7,12 @@ Implemented by :
 3. Andre Han
 4. Jackson Hiltner
 5. Qingye (Vicky) Ding
+
+
+Important Resources : 
+1. For Input data please download from Kaggle : https://www.kaggle.com/kmader/food41
+2. http://www.ub.edu/cvub/ingredients101/ For Ingredient Data
+
+Blog : 
+https://medium.com/@leaf1989106/food-classification-using-transfer-learning-and-neural-networks-e393422fdfb
+Food Classification using Transfer Learning and Neural Networks
